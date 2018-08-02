@@ -1,2 +1,2 @@
 # ECUCloudlog
-Log directly to ECU 
+Log directly to cloud from ECU 
